@@ -1,0 +1,42 @@
+[
+  {
+    "good": "Birthday Cake",
+    "bad": "Dirty Dishwater",
+  },
+  {
+    "good": "Toasted Marshmallow",
+    "bad": "Stink Bug",
+  },
+  {
+    "good": "Tutti-Fruitti",
+    "bad": "Stinky Socks",
+  },
+  {
+    "good": "Coconut",
+    "bad": "Spoiled Milk",
+  },
+  {
+    "good": "Berry Blue",
+    "bad": "Toothpaste",
+  },
+  {
+    "good": "Buttered Popcorn",
+    "bad": "Rotten Egg",
+  },
+  {
+    "good": "Chocolate Pudding",
+    "bad": "Canned Dog Food",
+  },
+  {
+    "good": "Peach",
+    "bad": "Barf",
+  },
+  {
+    "good": "Juicy Pear",
+    "bad": "Booger",
+  },
+  {
+    "good": "Strawberry Banana Smoothie",
+    "bad": "Dead Fish",
+  }
+]
