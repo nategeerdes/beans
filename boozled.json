@@ -1,42 +1,12 @@
 [
-  {
-    "good": "Birthday Cake",
-    "bad": "Dirty Dishwater",
-  },
-  {
-    "good": "Toasted Marshmallow",
-    "bad": "Stink Bug",
-  },
-  {
-    "good": "Tutti-Fruitti",
-    "bad": "Stinky Socks",
-  },
-  {
-    "good": "Coconut",
-    "bad": "Spoiled Milk",
-  },
-  {
-    "good": "Berry Blue",
-    "bad": "Toothpaste",
-  },
-  {
-    "good": "Buttered Popcorn",
-    "bad": "Rotten Egg",
-  },
-  {
-    "good": "Chocolate Pudding",
-    "bad": "Canned Dog Food",
-  },
-  {
-    "good": "Peach",
-    "bad": "Barf",
-  },
-  {
-    "good": "Juicy Pear",
-    "bad": "Booger",
-  },
-  {
-    "good": "Strawberry Banana Smoothie",
-    "bad": "Dead Fish",
-  }
+  ["Birthday Cake", "Dirty Dishwater"],
+  ["Toasted Marshmallow", "Stink Bug"],
+  ["Tutti-Fruitti", "Stinky Socks"],
+  ["Coconut", "Spoiled Milk"],
+  ["Berry Blue", "Toothpaste"],
+  ["Buttered Popcorn", "Rotten Egg"],
+  ["Chocolate Pudding", "Canned Dog Food"],
+  ["Peach", "Barf"],
+  ["Juicy Pear", "Booger"],
+  ["Strawberry Banana Smoothie", "Dead Fish"]
 ]
